@@ -1,7 +1,6 @@
 # Delta-Sigma-DAC-Converter
 
-**Author:** Mariano Leonel Acosta
-
+**Author:** Mariano Leonel Acosta <br>
 **Date:** March 2018
 
 In this project I designed a Digital to Analog Converter in VHDL. It comes handy for FPGA development boards that lacks a D/A. Particularly, I used it on the Zybo board from Digilent. 
