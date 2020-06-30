@@ -2,7 +2,7 @@
 
 **Author:** Mariano Leonel Acosta
 
-In this project I designed a Digital to Analog Converter in VHDL. It comes handy for FPGA development boards that lack a D/A. Particularly, I used it on the Zybo board from Digilent. 
+In this project I designed a Digital to Analog Converter in VHDL. It comes handy for FPGA development boards that lacks a D/A. Particularly, I used it on the Zybo board from Digilent. 
 
 ## Inputs
 **data:** Signed integer (24 bits)
