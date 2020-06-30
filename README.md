@@ -10,4 +10,4 @@ In this project I designed a Digital to Analog Converter in VHDL. It comes handy
 **clk:** Clock Signal
 
 ## Outputs
-**dac_out:** Binary (1 bit). Pulse Coded Modulation (PCM) Signal. In order to recover the baseline signal, this output has to be low-pass filtered in the analog domain.  
+**dac_out:** Binary (1 bit). Pulse Code Modulation (PCM) Signal. In order to recover the baseline signal, this output has to be low-pass filtered in the analog domain.  
